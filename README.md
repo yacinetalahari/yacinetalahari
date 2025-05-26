@@ -25,9 +25,9 @@ I love working with **C programming**, diving into **web development**, and late
 
 ### Let’s connect!
 
-- LinkedIn: [yacinetalahari](https://www.linkedin.com/in/yacinetalahari)  
+- LinkedIn: [yacinetalahari](https://www.linkedin.com/in/yassinetalahari)  
 - GitHub: [yacinetalahari](https://github.com/Yacinetalahari)  
-- Email: yacine.talahari1506.com
+- Email: yacine.talahari1506@gmail.com
 
 ---
 Feel free tocheck out my projects. I’m always happy to chat about code, games, or anything tech! 🚀
