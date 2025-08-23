@@ -1,33 +1,22 @@
-# Hey there, I’m Yassine! 👋
+<h1 align="center">Hi 👋, I'm yassine</h1>
+<h3 align="center">I’m a Computer Science student at mohammed bougarra university of boumerdes , i'm passionate about coding and building cool things with technology.</h3>
 
-I’m a Computer Science student at mohammed bougarra university of boumerdes , i'm passionate about coding and building cool things with technology.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yacinetalahari" alt="yacinetalahari" /></a> </p>
 
-I love working with **C programming**, diving into **web development**, and lately, I’ve been exploring **game development** using Unreal Engine. 
+<p align="left"> <a href="https://twitter.com/talahriyacine" target="blank"><img src="https://img.shields.io/twitter/follow/talahriyacine?logo=twitter&style=for-the-badge" alt="talahriyacine" /></a> </p>
 
----
+- 🔭 I’m currently finishing **EAMS**
 
-### A bit about me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/talahriyacine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talahriyacine" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yassine talahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine talahari" height="30" width="40" /></a>
+<a href="https://fb.com/yacine talahri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yacine talahri" height="30" width="40" /></a>
+<a href="https://instagram.com/yacine__.ta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yacine__.ta" height="30" width="40" /></a>
+</p>
 
-- Currently finishing my final year project — a web app built with Next.js
-- Enjoy creating small mobile games with C++ and Unreal Engine
-- video editing when free
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yacinetalahari&show_icons=true&locale=en" alt="yacinetalahari" /></p>
 
-### What I’m good at:
-
-| Languages & Tech     | Tools & Stuff          | Other Interests       |
-|---------------------|-----------------------|-------------------------|
-| C, C++, PHP, JS      | HTML, CSS, Bootstrap  | Game dev & graphic     |
-| MySQL, Express.js    | Git, GitHub, VS Code  | desing                 |
-
----
-
-### Let’s connect!
-
-- LinkedIn:https://www.linkedin.com/in/yassine-talahari-78956a309
-- GitHub: [yacinetalahari](https://github.com/Yacinetalahari)  
-- Email: yacine.talahari1506@gmail.com
-
----
-Feel free tocheck out my projects. I’m always happy to chat about code, games, or anything tech! 🚀
