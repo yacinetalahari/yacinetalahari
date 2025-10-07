@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm yassine</h1>
-<h3 align="center">I’m a Computer Science student at mohammed bougarra university of boumerdes , i'm passionate about coding and building cool things with technology.</h3>
+<h1 align="center">Hi , I'm Talahari Yassine<</h1>
+<h3 align="center">I’m a Computer Science student at mohammed bougarra university of boumerdes , currently specialized in Artificial Intelligence,  i'm passionate about coding and building cool things with technology.</h3>
 
 
 ## 🌐 Socials:
