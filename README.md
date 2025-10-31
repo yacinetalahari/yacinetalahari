@@ -1,14 +1,12 @@
-<!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Talahari Yassine</span></h1>
 <h3 align="center">
 🎓 Computer Science Student at <span style="color:#00BCD4;">Mohammed Bougara University of Boumerdes</span><br>
-💡 Specialized in <b>Artificial Intelligence</b><br>
+💡 Specialized in <b style="color:#FFD54F;">Artificial Intelligence</b><br>
 💻 Passionate about coding, learning, and building cool things with tech.
 </h3>
 
 ---
 
-<!-- Socials -->
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -28,7 +26,6 @@
 
 ---
 
-<!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
@@ -37,19 +34,19 @@
 
 ---
 
-<!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yacinetalahari&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Yassine's GitHub stats" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yacinetalahari&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacinetalahari&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yacinetalahari&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yacinetalahari&theme=tokyonight&hide_border=false" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacinetalahari&theme=tokyonight&hide_border=false&layout=compact" />
+</p>
 
 ---
 
-<!-- Visitor Counter -->
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=yacinetalahari&icon=0&color=6" alt="Profile Visits"/>
@@ -58,14 +55,4 @@
 
 ---
 
-<!-- Animated Style -->
-<style>
-  h1 span:hover, h3 span:hover, h3 b:hover {
-    color: #FFD54F;
-    transition: 0.3s;
-  }
-  img:hover {
-    transform: scale(1.08);
-    transition: 0.3s ease-in-out;
-  }
-</style>
+<!-- Note: GitHub ignores <style> tags, so hover effects are not supported here. -->
