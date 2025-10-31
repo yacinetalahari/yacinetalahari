@@ -1,8 +1,7 @@
-<!-- ⚔️ Yacine Talahri - Epic GitHub README -->
 
-<!-- 🖼️ Thorfinn Coder Banner -->
+
 <p align="center">
-  <img src="thorfinnjpeg width="250" style="border-radius: 50%; box-shadow: 0 0 15px #00F5FF;" alt="Thorfinn Coding">
+  <img src="thorfinn.jpg width="250" style="border-radius: 50%; box-shadow: 0 0 15px #00F5FF;" alt="Thorfinn Coding">
 </p>
 
 <!-- 💬 Typing Animation -->
