@@ -1,8 +1,14 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Talahari Yassine</span></h1>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Talahari+Yassine;💻+AI+and+Web+Enthusiast;🚀+Passionate+about+Building+Cool+Things" alt="Typing SVG" />
+</p>
+
+---
+
 <h3 align="center">
 🎓 Computer Science Student at <span style="color:#00BCD4;">Mohammed Bougara University of Boumerdes</span><br>
-💡 Specialized in <b style="color:#FFD54F;">Artificial Intelligence</b><br>
-💻 Passionate about coding, learning, and building cool things with tech.
+🤖 Specialized in <b style="color:#FFD54F;">Artificial Intelligence</b><br>
+🔥 Always learning. Always creating.
 </h3>
 
 ---
@@ -26,33 +32,42 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">⚙️ Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,php,python,r,bootstrap,figma,git,github,mysql,sqlite,vite,bun,unity,linux,apache&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,php,r,bootstrap,vite,figma,git,github,mysql,sqlite,unity,bun,linux,apache&perline=8" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Power</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yacinetalahari&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yacinetalahari&theme=tokyonight&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yacinetalahari&theme=radical&show_icons=true&count_private=true&border_radius=15" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yacinetalahari&theme=radical&hide_border=false&border_radius=15" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacinetalahari&theme=tokyonight&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacinetalahari&theme=radical&layout=compact&border_radius=15" />
+</p>
+
+---
+
+<h2 align="center">🔥 My Current Mood</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yacinetalahari&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yacinetalahari&icon=0&color=6" alt="Profile Visits"/>
+    <img src="https://visitcount.itsvg.in/api?id=yacinetalahari&icon=3&color=6" alt="Profile Visits"/>
   </a>
 </p>
 
 ---
 
-<!-- Note: GitHub ignores <style> tags, so hover effects are not supported here. -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D8FF&height=100&section=footer"/>
+</p>
