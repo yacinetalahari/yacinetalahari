@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/-Thorfinn-000?style=for-the-badge&logo=none&labelColor=00000000&logoWidth=0">
-  <br>
-  <img src="./thorfinn.jpg" width="230" style="clip-path: circle(50%);" alt="Thorfinn Coding"/>
+  <img src="https://github.com/yacinetalahari/yacinetalahari/blob/main/thorfinn.jpg" width="230" style="clip-path:circle(50%); border:3px solid #00F5FF; box-shadow:0 0 25px #00F5FF;" />
 </p>
 
 <h1 align="center">
