@@ -1,7 +1,7 @@
 <!-- 🌟 Yacine Talahri - Unique GitHub README -->
 
 <p align="center">
-  <img src="./thorfinn.jpg" width="230" style="border-radius: 50%; border: 3px solid #00F5FF; box-shadow: 0 0 25px #00F5FF; transition: transform 0.3s;" alt="Thorfinn Coding"/>
+  <img src="./thorfinn.jpg" width="230" style="border-radius: 50%; border: 3px solid #FFFFFF; box-shadow: 0 0 25px #00F5FF; transition: transform 0.3s;" alt="Thorfinn Coding"/>
 </p>
 
 <h1 align="center">
