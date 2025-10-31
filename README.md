@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="./thorfinn.jpg" width="230" style="clip-path: circle(50%); border: 3px solid #00F5FF; box-shadow: 0 0 25px #00F5FF;" alt="Thorfinn Coding"/>
+  <img src="https://img.shields.io/badge/-Thorfinn-000?style=for-the-badge&logo=none&labelColor=00000000&logoWidth=0">
+  <br>
+  <img src="./thorfinn.jpg" width="230" style="clip-path: circle(50%);" alt="Thorfinn Coding"/>
 </p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yacine+Talahri+👋;Web+Developer+%26+Game+Creator;Passionate+about+Code+%26+Creativity" alt="Typing Animation" />
 </h1>
