@@ -1,7 +1,7 @@
-
+<!-- 🌟 Yacine Talahri - Unique GitHub README -->
 
 <p align="center">
-  <img src="thorfinn.jpg width="250" style="border-radius: 50%; box-shadow: 0 0 15px #00F5FF;" alt="Thorfinn Coding">
+  <img src="./thorfinn.jpg" width="250" style="border-radius: 50%; box-shadow: 0 0 15px #00F5FF;" alt="Thorfinn Coding"/>
 </p>
 
 <!-- 💬 Typing Animation -->
@@ -55,10 +55,6 @@
 
 ---
 
-
-
----
-
 ### <p align="center">🌍 Connect with Me</p>
 
 <p align="center">
@@ -66,5 +62,3 @@
   <a href="https://www.linkedin.com/in/yassinetalahari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/yacine__.ta" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
-
