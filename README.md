@@ -22,10 +22,9 @@
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,cpp,c,java,bun,nodejs,express,git,github,linux,godot,figma,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,cpp,c,java,bun,nodejs,express,react,tailwind,flask,git,github,linux,docker,bash,anaconda,jupyter,godot,figma,vscode&perline=7" />
 </p>
 
----
 
 <h2 align="center">🚀 Featured Skills</h2>
 
