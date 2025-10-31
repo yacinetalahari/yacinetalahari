@@ -30,8 +30,9 @@
 <h2 align="center">🚀 Featured Skills</h2>
 
 <p align="center">
+ <b>Web Development:</b> HTML, CSS, JS,Next js,  Bootstrap, PHP (PDO), MySQL<br>
+ <b>programming:</b> C, C++, Java, Python<br>
  <b>Web Development:</b> HTML, CSS, Bootstrap, PHP (PDO), MySQL<br>
- <b>Backend Exploration:</b> Express.js, Node.js, Bun<br>
  <b>Game Development:</b> Pygame & Godot Engine<br>
  <b>Other Interests:</b> Cybersecurity, Networking, and Visual Design
 </p>
