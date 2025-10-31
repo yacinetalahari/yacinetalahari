@@ -2,7 +2,7 @@
 
 <!-- 🖼️ Thorfinn Coder Banner -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="250" style="border-radius: 50%; box-shadow: 0 0 15px #00F5FF;" alt="Thorfinn Coding">
+  <img src="thorfinnjpeg width="250" style="border-radius: 50%; box-shadow: 0 0 15px #00F5FF;" alt="Thorfinn Coding">
 </p>
 
 <!-- 💬 Typing Animation -->
@@ -56,11 +56,7 @@
 
 ---
 
-### <p align="center">🌌 Quote That Guides Me</p>
 
-<p align="center">
-  <i>"Trust the process 🌱 Everything will be okay."</i>
-</p>
 
 ---
 
@@ -72,12 +68,4 @@
   <a href="https://instagram.com/yacine__.ta" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
 
-### <p align="center">🌀 Fun Section</p>
-
-```python
-while True:
-    code()
-    learn()
-    trust_process()
