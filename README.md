@@ -1,18 +1,71 @@
-<h1 align="center">Hi , I'm Talahari Yassine</h1>
-<h3 align="center">I’m a Computer Science student at mohammed bougarra university of boumerdes , currently specialized in Artificial Intelligence,  i'm passionate about coding and building cool things with technology.</h3>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yacine__.ta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassinetalahari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yacinetalahri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yacine.talahari1506@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yacinetalahari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yacinetalahari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yacinetalahari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Talahari Yassine</span></h1>
+<h3 align="center">
+🎓 Computer Science Student at <span style="color:#00BCD4;">Mohammed Bougara University of Boumerdes</span><br>
+💡 Specialized in <b>Artificial Intelligence</b><br>
+💻 Passionate about coding, learning, and building cool things with tech.
+</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yacinetalahari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Socials -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://instagram.com/yacine__.ta" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/yassinetalahari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/yacinetalahri" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:yacine.talahari1506@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<!-- Tech Stack -->
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,php,python,r,bootstrap,figma,git,github,mysql,sqlite,vite,bun,unity,linux,apache&perline=8" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yacinetalahari&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Yassine's GitHub stats" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yacinetalahari&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacinetalahari&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
+</div>
+
+---
+
+<!-- Visitor Counter -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=yacinetalahari&icon=0&color=6" alt="Profile Visits"/>
+  </a>
+</p>
+
+---
+
+<!-- Animated Style -->
+<style>
+  h1 span:hover, h3 span:hover, h3 b:hover {
+    color: #FFD54F;
+    transition: 0.3s;
+  }
+  img:hover {
+    transform: scale(1.08);
+    transition: 0.3s ease-in-out;
+  }
+</style>
